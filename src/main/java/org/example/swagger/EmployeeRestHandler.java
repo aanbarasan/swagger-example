@@ -1,9 +1,10 @@
 package org.example.swagger;
 
-public class EmployeeHandler
-{
+public class EmployeeRestHandler {
+
     public static void main(String arg[])
     {
         System.out.print("test");
+
     }
 }
